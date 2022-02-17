@@ -1,38 +1,38 @@
 # Icons on the footer
 rss: false
-email_address:
-behance:
-bitbucket:
-dribbble:
-facebook:
-flickr:
-gitlab:
-github:
-instagram:
-keybase:
-linkedin:
-pinterest:
-reddit:
-soundcloud:
-stack_overflow:
-stack_exchange:
-steam:
-tumblr:
-twitter:
-vimeo:
-wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+email_address: false
+behance: false
+bitbucket: false
+dribbble: false
+facebook: false
+flickr: false
+gitlab: false
+github: TheIndomitableSnowman
+instagram: false
+keybase: false
+linkedin: false
+pinterest: false
+reddit: TheIndomSnowman
+soundcloud: false
+stack_overflow: false
+stack_exchange: false
+steam: TheIndomitableSnowman
+tumblr: false
+twitter: false
+vimeo: false
+wordpress: false
+youtube: UC0Qi90i1hTm7naEKbabKF2A
 twitch: sirrandoo
-tiktok:
+tiktok: false
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
-  tumblr:
-  pinterest:
-  pocket:
+  facebook: false
+  twitter: false
+  tumblr: false
+  pinterest: false
+  pocket: false
   reddit: true
-  linkedin:
-  wordpress:
-  email: true
+  linkedin: false
+  wordpress: false
+  email: false
