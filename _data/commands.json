@@ -163,7 +163,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Gives link to the store page.",
     "name": "Purchase list",
     "usage": "!purchaselist",
     "userLevel": "Anyone",
@@ -180,7 +180,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Costs 500coins to join the naming queue to add yourself as an existing non-named pawn.",
     "name": "Join queue",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
@@ -231,7 +231,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
+    "description": "Lets you spend coins to add [coin-value] xp to a skill of your choosing, for your own pawn. (Not guaranteed lvl-up)",
     "name": "Level skill",
     "usage": "!levelskill <skill> <coins>",
     "userLevel": "Anyone",
@@ -299,7 +299,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows you the complete list of installed mods.",
+    "description": "Shows you the complete list of the currently installed mods.",
     "name": "Installed mods",
     "usage": "!installedmods",
     "userLevel": "Anyone",
@@ -350,7 +350,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Revives all available dead pawns in the colony.",
     "name": "Revive all",
     "usage": "!reviveall",
     "userLevel": "Anyone",
@@ -367,7 +367,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Revives your dead pawn, if possible.",
     "name": "Revive me",
     "usage": "!reviveme",
     "userLevel": "Anyone",
@@ -384,7 +384,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Heals 1 random injury/effect on your pawn (can heal scars & lost body parts).",
     "name": "Heal me",
     "usage": "!healme",
     "userLevel": "Anyone",
@@ -401,7 +401,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
+    "description": "Randomly shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
     "userLevel": "Anyone",
@@ -435,7 +435,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Adds a specific trait to your pawn,
     "name": "Add trait",
     "usage": "!trait",
     "userLevel": "Anyone",
@@ -452,7 +452,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Removes a specific trait from your pawn.",
     "name": "Remove trait",
     "usage": "!removetrait",
     "userLevel": "Anyone",
@@ -469,7 +469,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Revives a random available pawn in the colony.",
     "name": "Revive any pawn",
     "usage": "!reviveanypawn",
     "userLevel": "Anyone",
@@ -486,7 +486,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Heals 1 injury/effect from a random pawn in the colony (can heal scars & lost body parts).",
     "name": "Heal any pawn",
     "usage": "!healanypawn",
     "userLevel": "Anyone",
@@ -503,7 +503,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Replaces a trait with a different trait.",
+    "description": "Replaces a trait with a different trait (EXPENSIVE *7000coins* as it costs to remove the trait and also to buy the new one).",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
     "userLevel": "Anyone",
@@ -571,7 +571,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Adds you in the game as a pawn that needs to be rescued as part of a rescue-quest. Don't get your hopes up though...",
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",
@@ -588,7 +588,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Shows your pawn's current kill count. Divided into human, animal & mech kills.",
     "name": "Viewer kill count",
     "usage": "!mypawnkills",
     "userLevel": "Anyone",
@@ -605,7 +605,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your current stats within a given category.",
+    "description": "Shows your current combat stats. (e.g. melee DPS, aiming time, etc.)",
     "name": "Viewer stats",
     "usage": "!mypawnstats [stat1] [stat2]",
     "userLevel": "Anyone",
@@ -622,7 +622,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
+    "description": "Shows an overview of your pawn's current health %'s. If a capacity is specified, it'll show what's affecting it. (e.g. sight, manipulation, etc.)",
     "name": "Viewer health",
     "usage": "!mypawnhealth [capacity]",
     "userLevel": "Anyone",
@@ -639,7 +639,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Shows your pawn's current mood and needs (not all values are useful/used).",
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
     "userLevel": "Anyone",
@@ -656,7 +656,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's gear.",
+    "description": "Shows an overview of your pawn's current armour stats, and equipped gear.",
     "name": "Viewer gear",
     "usage": "!mypawngear",
     "userLevel": "Anyone",
@@ -673,7 +673,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Shows your pawn's current comfortable temp. ranges, and any effects/injuries affecting them.",
     "name": "Viewer body",
     "usage": "!mypawnbody",
     "userLevel": "Anyone",
@@ -690,7 +690,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's work priorities.",
+    "description": "Shows a long list of your pawn's work priorities. (usually not important info imo)",
     "name": "Viewer work",
     "usage": "!mypawnwork [worktype=priority] [...]",
     "userLevel": "Anyone",
@@ -707,7 +707,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Shows your pawn's background traits, gender, age and active traits.",
     "name": "Viewer story",
     "usage": "!mypawnstory",
     "userLevel": "Anyone",
@@ -724,7 +724,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Shows your pawn's current skill levels and passions.",
     "name": "Viewer skills",
     "usage": "!mypawnskills",
     "userLevel": "Anyone",
@@ -741,7 +741,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Re-links your pawn to the mod (in-case your commands aren't working).",
     "name": "Fix viewer pawn",
     "usage": "!fixmypawn",
     "userLevel": "Anyone",
@@ -758,7 +758,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Moderator's command to re-link all pawns to the mod (in-case commands aren't working).",
     "name": "Fix all pawns",
     "usage": "!fixallpawns",
     "userLevel": "Moderator",
@@ -792,7 +792,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's relationships to other viewers.",
+    "description": "Shows your pawn's relationships to and opinions of, specifically, other viewers.",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
     "userLevel": "Anyone",
@@ -809,7 +809,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Long list of the colony's current faction relations.",
     "name": "Factions",
     "usage": "!factions",
     "userLevel": "Anyone",
@@ -877,7 +877,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Moderator can help unstick any pawn.",
     "name": "Unstick",
     "usage": "!unstick",
     "userLevel": "Moderator",
@@ -911,7 +911,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Shows the current wealth of the currently visable map (usually the colony).",
     "name": "Colony wealth",
     "usage": "!wealth",
     "userLevel": "Anyone",
@@ -928,7 +928,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Shows the number of colonists currently alive and within the colony.",
     "name": "Colonist count",
     "usage": "!colonists",
     "userLevel": "Anyone",
@@ -945,24 +945,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Provides some information about supported things. Supported categories are: 'weapons'",
-    "name": "Database",
-    "usage": "!rwdata <category/weaponname> [weaponname]",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
+    "description": "Helpful command in-case your pawn is stuck, or your commands aren't working.",
     "name": "Unstick me",
     "usage": "!imstuck",
     "userLevel": "Anyone",
@@ -979,10 +962,10 @@
       "localCooldown": 0,
       "mod": "ToolkitAddon - More Stuff"
     },
-    "description": null,
+    "description": "Best used if the map is flooded with items.",
     "name": "Clean the Map",
     "usage": "!cleanup",
-    "userLevel": "Anyone",
+    "userLevel": "Moderator",
     "shortcut": false
   },
   {
