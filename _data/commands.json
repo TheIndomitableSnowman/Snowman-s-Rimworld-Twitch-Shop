@@ -180,7 +180,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Costs 500coins to join the naming queue to add yourself as an existing non-named pawn.",
+    "description": "Costs 250coins to join the naming queue to add yourself as an existing non-named pawn.",
     "name": "Join queue",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
