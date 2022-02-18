@@ -388,7 +388,7 @@
     "name": "Heal me",
     "usage": "!healme",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
