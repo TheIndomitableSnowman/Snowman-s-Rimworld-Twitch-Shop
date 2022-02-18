@@ -44,7 +44,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives everyone coins.",
+    "description": "Gives eveyrone coins.",
     "name": "Give all coins",
     "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
@@ -387,23 +387,6 @@
     "description": null,
     "name": "Heal me",
     "usage": "!healme",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Healall",
-    "usage": "!healall",
     "userLevel": "Anyone",
     "shortcut": true
   },
