@@ -222,7 +222,7 @@
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -235,7 +235,7 @@
     "name": "Level skill",
     "usage": "!levelskill <skill> <coins>",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
@@ -341,7 +341,7 @@
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -354,11 +354,11 @@
     "name": "Revive all",
     "usage": "!reviveall",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -371,11 +371,11 @@
     "name": "Revive me",
     "usage": "!reviveme",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -392,7 +392,7 @@
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -405,11 +405,11 @@
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -422,11 +422,11 @@
     "name": "Surgery",
     "usage": "!surgery <item> <quantity/bodypart>",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -439,11 +439,11 @@
     "name": "Add trait",
     "usage": "!trait",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -456,11 +456,11 @@
     "name": "Remove trait",
     "usage": "!removetrait",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -473,11 +473,11 @@
     "name": "Revive any pawn",
     "usage": "!reviveanypawn",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -490,11 +490,11 @@
     "name": "Heal any pawn",
     "usage": "!healanypawn",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -507,11 +507,11 @@
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -524,11 +524,11 @@
     "name": "Backpack",
     "usage": "!backpack <item> [quantity]",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -541,11 +541,11 @@
     "name": "Remove passion",
     "usage": "!removepassion <skill>",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -558,11 +558,11 @@
     "name": "Add passion",
     "usage": "!passion <skill>",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
-      "isShortcut": true,
+      "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -575,7 +575,7 @@
     "name": "Rescue me",
     "usage": "!rescueme",
     "userLevel": "Anyone",
-    "shortcut": true
+    "shortcut": false
   },
   {
     "data": {
