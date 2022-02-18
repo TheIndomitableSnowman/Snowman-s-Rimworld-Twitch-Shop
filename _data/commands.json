@@ -435,7 +435,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Adds a specific trait to your pawn,
+    "description": "Adds a specific trait to your pawn.",
     "name": "Add trait",
     "usage": "!trait",
     "userLevel": "Anyone",
