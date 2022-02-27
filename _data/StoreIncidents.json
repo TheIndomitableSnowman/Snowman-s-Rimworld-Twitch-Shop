@@ -11,11 +11,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "clearweather",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
@@ -97,7 +92,7 @@
 	},
 	{
 		"abr": "aurora",
-		"price": 200,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -107,7 +102,7 @@
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 300,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -147,7 +142,7 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 200,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -156,24 +151,14 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "visitorgroup",
@@ -182,7 +167,7 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -207,7 +192,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -406,11 +391,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "sanctuary",
-		"price": 100000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphaasteroid",
 		"price": 1000,
 		"karmatype": "Neutral"
@@ -561,5 +541,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 112
+	"total": 108
 }
